@@ -18,4 +18,5 @@ h1 {
 	width:170px
 }
 #footer {background-color:#04d4fb;}
-#lowerfooter {background-color:#fc0404;}
+#lowerfooter {background-color:#111111;}
+#lowestfooter i {font-size:75px;color:#fc0404;margin:25px 15px;}
